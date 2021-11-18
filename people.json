@@ -1,0 +1,26 @@
+{
+    "list":[
+        {
+            
+             "S.No":"1",
+             "Item Name":"Rice",
+             "Quantity":"10",
+             "Unit":"kg",
+             "Department":"grocery"
+        },
+        {
+            "S.No":"1",
+            "Item Name":"Rice",
+            "Quantity":"10",
+            "Unit":"kg",
+            "Department":"grocery"    
+        },
+    {
+        "S.No":"1",
+             "Item Name":"Rice",
+             "Quantity":"10",
+             "Unit":"kg",
+             "Department":"grocery"
+    }
+    ]
+}
